@@ -1,1 +1,2 @@
 # AquaticSpeciesDeclines
+This is a work in progress developing and evaluating machine learning algorithms in R and ensemble models to identify watersheds at risk of biodiversity decline using the distributions of over 1400 freshwater threatened and non-threatened species and a set of ~ 100 predictors characterizing alien species distribution, habitat, climate, and landscape composition and anthropogenic stressors.
